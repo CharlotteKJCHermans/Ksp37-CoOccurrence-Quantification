@@ -20,7 +20,8 @@ Cells are segmented on a membrane stain. The mean Ksp37 and POI signal of each c
 - Files without all three channels are skipped.
 
 ## Example data
-`Ksp37-CoOccurrence-Quantification-ExampleData/Input` contains sample images. Run the script with this folder as input and compare your results with `Ksp37-CoOccurrence-Quantification-ExampleData/Expected_Output`.
+Sample images (.nd2) are available on Zenodo: https://doi.org/10.5281/zenodo.23473247. 
+Download them into a folder and run the script with that folder as input. Compare your results with `Ksp37-CoOccurrence-Quantification-ExampleData/Expected_Output`.
 
 ## How to run
 1. In Fiji, click File → New → Script…
