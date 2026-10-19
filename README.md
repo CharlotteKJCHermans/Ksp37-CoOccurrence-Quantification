@@ -1,4 +1,5 @@
 # Ksp37-CoOccurrence-Quantification
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23474924.svg)](https://doi.org/10.5281/zenodo.23474924)
 
 Fiji (Jython) script for quantifying co-occurrence of Ksp37 with a protein of interest (POI) in single cells, for example a vesicle marker or an effector molecule. The script can also be used for other proteins, provided the proteins to analyze are in channel 1 and channel 2 and the cell mask is in channel 0 (see User parameters).
 
@@ -64,6 +65,7 @@ MIT
 ## Cite
 If you use this script, please cite:
 
-Hermans, CKJC (2026). XXXX
+Hermans, CKJC (2026). Ksp37-CoOccurrence-Quantification: Fiji script for co-occurrence of Ksp37 with a protein of interest (v1.0.0).
+Zenodo. https://doi.org/10.5281/zenodo.23474924
 
 Paper: [link to be added once published]
